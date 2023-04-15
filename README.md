@@ -4,7 +4,7 @@ The same name can be spelled out in a many ways (for example, Marc and Mark, or 
 
 First, using fuzzy (sound) name matching, we will search for author names in a dataset provided by the US Social Security Administration that contains names and genders of all individuals who have applied for Social Security Cards. Next, we'll aggregate the author dataset by including gender. Finally, we will use the new dataset to plot the gender distribution of children's picture books authors over time.
 ## Usage
-Clone this repository and open the Jupyter notebook file (`*.ipynb`) in a Jupyter environment with Python kernel support. Make sure to install the required packages such as `pandas`, `numpy`, and `matplotlib`. You can do this by running the following commands in a code cell within the notebook:
+Clone this repository and open the Jupyter notebook file (`*.ipynb`) in a Jupyter environment with Python kernel support. Make sure to install the required packages such as `pandas`, `fuzzy`, `numpy`, and `matplotlib`. You can do this by running the following commands in a code cell within the notebook:
 ```python
 !pip install pandas fuzzy numpy matplotlib
 ```
