@@ -18,7 +18,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 ## Contents
 1. **Sound it out!:**
 2. **Authoring the authors:**
-3. **It's time to bring on the phonics... _again_!:**
+3. **It's time to bring on the phonics..._again_!:**
 4. **The inbetweeners:**
 5. **Playing matchmaker:**
 6. **Tally up:**
