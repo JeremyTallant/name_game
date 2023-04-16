@@ -20,7 +20,7 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 **2. Authoring the authors:**
 **3. It's time to bring on the phonics..._again_!:**
 **4. The inbetweeners:**
-5. **Playing matchmaker:**
+**5. Playing matchmaker:**
 6. **Tally up:**
 7. **Foreign-born authors?:**
 8. **Raising the bar:**
