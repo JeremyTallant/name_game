@@ -23,4 +23,4 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 **5. Playing matchmaker:**
 **6. Tally up:**
 **7. Foreign-born authors?:**
-8. **Raising the bar:**
+**8. Raising the bar:**
