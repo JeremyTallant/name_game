@@ -16,11 +16,11 @@ If you don't have a Jupyter environment set up, you can install Jupyter Notebook
 
 2. Ensure you have Python installed. If not, you can download and install Python from the [official Python website](https://www.python.org/downloads/).
 ## Contents
-1. **Sound it out!:**
-2. **Authoring the authors:**
-3. **It's time to bring on the phonics..._again_!:**
-4. **The inbetweeners:**
-5. **Playing matchmaker:**
-6. **Tally up:**
-7. **Foreign-born authors?:**
-8. **Raising the bar:**
+1. **Sound it out!:** Explore the NYSIIS algorithm.
+2. **Authoring the authors:** Read in the book data and extract the authors' first names.
+3. **It's time to bring on the phonics..._again_!:** Create an NYSIIS equivalent of authors' first names.
+4. **The inbetweeners:** Read in the baby name dataset and add to it a new column that indicates gender.
+5. **Playing matchmaker:** Figure out the genders of the authors.
+6. **Tally up:** Tally up the gender of the authors over time.
+7. **Foreign-born authors?:** Visualize the foreign-born authors using a bar chart.
+8. **Raising the bar:** Compare male and female authorship using a grouped bar chart.
